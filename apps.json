@@ -1,1 +1,1 @@
-{"maintainer": "Adam Furman", "name": "UStore Repository", "url": "http://www.github.com/xavier114/furmada/PythonOSApps", "apps": ["starforce", "dev-appdb-tool", "editor", "dev-hub"], "featured": "pman", "featured_list": ["starforce", "dev-hub"], "apps_dir": "apps"}
+{"maintainer": "Adam Furman", "name": "UStore Repository", "url": "http://www.github.com/xavier114/furmada/PythonOSApps", "apps": ["starforce", "dev-appdb-tool", "editor", "dev-hub", "pman"], "featured": "pman", "featured_list": ["starforce", "dev-hub"], "apps_dir": "apps"}
