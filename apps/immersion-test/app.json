@@ -1,0 +1,15 @@
+{
+  "name": "immersion-test",
+  "title": "Immersion",
+  "version": 1.0,
+  "author": "Adam Furman",
+  "module": "immersion-test",
+  "main": "run",
+  "more": {
+    "icon": "apps/immersion-test/icon.png",
+    "onStart": "onStart",
+    "colorScheme": "light",
+    "immersive": "immerse"
+  },
+  "description": "Test the fullscreen (immersive) mode feature."
+}

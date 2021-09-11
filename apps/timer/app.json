@@ -1,0 +1,17 @@
+﻿{
+  "name": "timer",
+  "title": "Timer",
+  "version": 1.1,
+  "author": "Adam Furman",
+  "module": "timer",
+  "main": "run",
+  "more": {
+    "icon": "timer.png",
+    "onStart": "onStart",
+    "onResume": "onResume",
+    "onPause": "setNotification",
+    "onStop": "setNotification",
+    "colorScheme": "normal"
+  },
+  "description": "A timer application. Set minutes and seconds. The timer continues even when the app is not active."
+}

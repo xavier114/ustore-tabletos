@@ -1,0 +1,15 @@
+﻿{
+  "name": "starforce",
+  "title": "StarForce",
+  "version": 1.2,
+  "author": "Adam Furman",
+  "module": "starforce",
+  "main": "run",
+  "more": {
+    "icon": "apps/starforce/icon.png",
+    "onStart": "onStart",
+    "colorScheme": "normal",
+    "immersive": "main"
+  },
+  "description": "A simple, fun space shooter with fluid animations. Adaptive difficulty and easy gameplay."
+}

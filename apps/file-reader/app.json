@@ -1,0 +1,15 @@
+{
+  "name": "file-reader",
+  "title": "Reader",
+  "version": 1.1,
+  "author": "Adam Furman",
+  "module": "file-reader",
+  "main": "run",
+  "more": {
+    "icon": "file-reader.png",
+    "onStart": "onStart",
+    "colorScheme": "light",
+    "file": [ ".txt", ".htm", ".html", ".py", ".pyw", ".json", ".md" ]
+  },
+  "description": "Opens and reads plain text format files."
+}
